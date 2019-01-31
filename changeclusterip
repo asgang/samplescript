@@ -1,0 +1,1 @@
+Get-ClusterResource "IP Address 172.24.11.0" | Stop-ClusterResource | Update-ClusterIPResource –Release
